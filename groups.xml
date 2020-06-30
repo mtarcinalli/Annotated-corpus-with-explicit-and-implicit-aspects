@@ -9,7 +9,7 @@
 	<record>
 		<Domain>Livro</Domain>
 		<Group>G2</Group>
-		<Explicit>Escritor, Autor,  Jorge Amado, Stephenie Meyer, Thalita Reboucas, Tatá, Sidney Sheldon, Saramago, Sidney, Orwell, George Orwell, Jorge Amado, Jose Saramago, Sheldon</Explicit>
+		<Explicit>Escritor, Autor, Jorge Amado, Stephenie Meyer, Thalita Reboucas, Tatá, Sidney Sheldon, Saramago, Sidney, Orwell, George Orwell, Jorge Amado, Jose Saramago, Sheldon</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
@@ -27,7 +27,7 @@
 	<record>
 		<Domain>Livro</Domain>
 		<Group>G5</Group>
-		<Explicit>Historia, Narrativa, Estória, Crônica, Suspense, Ficcao, Romance, Aventura, Literatura, Romancezinho, Tipo de história</Explicit>
+		<Explicit>Historia, história, Narrativa, Estória, Crônica, Suspense, Ficcao, Romance, Aventura, Literatura, Romancezinho, Tipo de história</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
@@ -147,73 +147,73 @@
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G1</Group>
-		<Explicit>Camera, Produto, Maquina,  Camera semiprofissional, Câmera digital, Qualidade da camera, Camerazinha, Maquina digital</Explicit>
+		<Explicit>Camera, câmera, camara, câmerazinha, Produto, Maquina, Máquina, Camera semiprofissional, câmera semiprofissional, Câmera digital, Qualidade da camera, Camerazinha, Maquina digital, fz35, câmera digital olympus, equipamento, qualidade da máquina</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G2</Group>
-		<Explicit>Custo, Preço, Valor, Investimento, Custo-beneficio, Custo\beneficio</Explicit>
-		<Implicit>Barato</Implicit>
+		<Explicit>Custo, Preço, Valor, Investimento, Custo-beneficio, Custo\beneficio, custo-benefício, custo benefício</Explicit>
+		<Implicit>Barato, cada centavo investido</Implicit>
 	</record>
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G3</Group>
-		<Explicit>Imagem, Modo de imagem, Qualidade da imagem, Cores da imagem, Filtros de imagem</Explicit>
+		<Explicit>Imagem, Modo de imagem, Qualidade da imagem, Cores da imagem, Filtros de imagem, filtros de imagens</Explicit>
 		<Implicit>Modo noite</Implicit>
 	</record>
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G4</Group>
-		<Explicit>Usabilidade, Praticidade, Manuseio, Facilidade, Menu, Funcao, Recurso, Opcao, Funcionalidade</Explicit>
-		<Implicit>Facilidade de uso, Facil de utilizar, Facil de manusear, Facil de operar, Pratica, Facil de usar, Facil uso, Facilidade de mexer, Intuitiva, Auto explicativa</Implicit>
+		<Explicit>Usabilidade, Praticidade, Manuseio, Facilidade, Menu, Funcao, Funções, Recurso, recursos, Opcao, Funcionalidade, funcionalidades</Explicit>
+		<Implicit>Facilidade de uso, Facil de utilizar, fácil de utilizar, Facil de manusear, Facil de operar, Pratica, Facil de usar, fácil de usar, Facil uso, Facilidade de mexer, Intuitiva, Auto explicativa</Implicit>
 	</record>
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G5</Group>
-		<Explicit>Design, Beleza, Acabamento, Aparencia</Explicit>
+		<Explicit>Design, Beleza, Acabamento, Aparencia, aparência</Explicit>
 		<Implicit>Material, Linda, Bonita, Elegante</Implicit>
 	</record>
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G6</Group>
-		<Explicit>Acessorio</Explicit>
+		<Explicit>Acessorio, acessórios</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G7</Group>
-		<Explicit>Marca, Empresa, Sony, Fuji</Explicit>
+		<Explicit>Marca, Empresa, Sony, Fuji, Fabricante, benq, samsung</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G8</Group>
-		<Explicit>Bateria, Bateria reserva, Pilha</Explicit>
+		<Explicit>Bateria, Bateria reserva, Pilha, pilhas</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G9</Group>
-		<Explicit>Botao</Explicit>
+		<Explicit>Botao, botão</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G10</Group>
-		<Explicit>Resolucao, Megapixel</Explicit>
+		<Explicit>Resolucao, resolução, Megapixel, megapixels</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G11</Group>
-		<Explicit>Foto, Resolucao da foto, Qualidade de foto, Opcao de foto, Cor da foto, Navegacao na foto, Fotografia, Foto dentro dagua, Foto Noturna</Explicit>
+		<Explicit>Foto, fotos, Resolucao da foto, resolução das fotos, Qualidade de foto, qualidade de fotos, qualidade das fotos, Opcao de foto, opções de fotos, Cor da foto, Navegacao na foto, Fotografia, fotografias, Foto dentro dagua, fotos dentro d'agua, Foto Noturna, fotos noturnas</Explicit>
 		<Implicit>Nigth Shot</Implicit>
 	</record>
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G12</Group>
-		<Explicit>Video, Resolucao do video, Qualidade de video, Qualidade do filme, Gravacao de video, Filmagem, Gravacao, Filme</Explicit>
+		<Explicit>Video, vídeos, Resolucao do video, resolução dos vídeos, Qualidade de video, qualidade de vídeos, Qualidade do filme, qualidade dos filmes, Gravacao de video, Filmagem, Gravacao, Filme, qualidade dos vídeos</Explicit>
 		<Implicit>Filma em HD</Implicit>
 	</record>
 	<record>
@@ -226,7 +226,7 @@
 		<Domain>Camera</Domain>
 		<Group>G14</Group>
 		<Explicit>Flash</Explicit>
-		<Implicit>s/n</Implicit>
+		<Implicit>se não tiver luz boa</Implicit>
 	</record>
 	<record>
 		<Domain>Camera</Domain>
@@ -243,19 +243,19 @@
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G17</Group>
-		<Explicit>Tela, Visor, Display, Touchscreen, Tamanho da Tela, Visor Ocular</Explicit>
+		<Explicit>Tela, Visor, Display, Touchscreen, Tamanho da Tela, Visor Ocular, tela touch screen</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G18</Group>
-		<Explicit>Manual, Manual em portugues, Manual de instrucao</Explicit>
+		<Explicit>Manual, Manual em portugues, Manual de instrucao, manual em português</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G19</Group>
-		<Explicit>Memoria, Sd Card, Cartao SD, Cartao de memoria, Memoria interna, Cartao, Memoria, Capacidade de memoria, Armazenamento</Explicit>
+		<Explicit>Memoria, Sd Card, Cartao SD, Cartao de memoria, cartão de memória, Memoria interna, Cartao, Memoria, Capacidade de memoria, Armazenamento</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
@@ -273,7 +273,7 @@
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G22</Group>
-		<Explicit>Garantia</Explicit>
+		<Explicit>Garantia, sac, assistência técnica</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
@@ -291,7 +291,7 @@
 	<record>
 		<Domain>Camera</Domain>
 		<Group>G25</Group>
-		<Explicit>Pelicula de Protecao</Explicit>
+		<Explicit>Pelicula de Protecao, película de proteção</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
@@ -375,7 +375,7 @@
 	<record>
 		<Domain>Smartphone</Domain>
 		<Group>G2</Group>
-		<Explicit>Internet, |Wifi, Wi-fi, Wi fi|, Net, Wireless, 3G, Conexão, Conectividade, Wap</Explicit>
+		<Explicit>Internet, Wifi, Wi-fi, Wi fi, Net, Wireless, 3G, Conexão, Conectividade, Wap</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
@@ -393,7 +393,7 @@
 	<record>
 		<Domain>Smartphone</Domain>
 		<Group>G5</Group>
-		<Explicit>Custo, Valor, Preco, Investimento, Preco-beneficio, |Custo-beneficio, Custo/beneficio|</Explicit>
+		<Explicit>Custo, Valor, Preco, Investimento, Preco-beneficio, Custo-beneficio, Custo/beneficio</Explicit>
 		<Implicit>Acessivel, Barato</Implicit>
 	</record>
 	<record>
@@ -423,13 +423,13 @@
 	<record>
 		<Domain>Smartphone</Domain>
 		<Group>G10</Group>
-		<Explicit>Tela, Visor, Vidro do flip, Display, Tamanho do visor, |Touch, Touch Screen, Tocscreen |</Explicit>
+		<Explicit>Tela, Visor, Vidro do flip, Display, Tamanho do visor, Touch, Touch Screen, Tocscreen</Explicit>
 		<Implicit>Sensibilidade</Implicit>
 	</record>
 	<record>
 		<Domain>Smartphone</Domain>
 		<Group>G11</Group>
-		<Explicit>Som, Audio, Volume, Sonorizacao, Musica, |Mp3, Mp3 player|, Qualidade do audio, Qualidade do som, Volume do audio, Qualidade sonora</Explicit>
+		<Explicit>Som, Audio, Volume, Sonorizacao, Musica, Mp3, Mp3 player, Qualidade do audio, Qualidade do som, Volume do audio, Qualidade sonora</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
@@ -441,13 +441,13 @@
 	<record>
 		<Domain>Smartphone</Domain>
 		<Group>G13</Group>
-		<Explicit>|Alto-falante, Auto falante|</Explicit>
+		<Explicit>Alto-falante, Auto falante</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
 		<Domain>Smartphone</Domain>
 		<Group>G14</Group>
-		<Explicit>|Design, Designer, Designe, Desing|, Estetica, Estilo, Modelo, Elegancia, Beleza</Explicit>
+		<Explicit>Design, Designer, Designe, Desing, Estetica, Estilo, Modelo, Elegancia, Beleza</Explicit>
 		<Implicit>Robusto, Lindo, Moderno, Arrojado, Chique, Atual, Bonito</Implicit>
 	</record>
 	<record>
@@ -459,8 +459,7 @@
 	<record>
 		<Domain>Smartphone</Domain>
 		<Group>G16</Group>
-		<Explicit>Foto, Fotografia, Qualidade da foto, Foto Panorama
-</Explicit>
+		<Explicit>Foto, Fotografia, Qualidade da foto, Foto Panorama</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
@@ -485,8 +484,7 @@
 		<Domain>Smartphone</Domain>
 		<Group>G20</Group>
 		<Explicit>Sinal, Recepcao, Ligacao, Quadri-band</Explicit>
-		<Implicit> Recebi chamadas até na beira do rio são francisco, Funciona em qualquer lugar
-</Implicit>
+		<Implicit>Recebi chamadas até na beira do rio são francisco, Funciona em qualquer lugar</Implicit>
 	</record>
 	<record>
 		<Domain>Smartphone</Domain>
@@ -515,7 +513,7 @@
 	<record>
 		<Domain>Smartphone</Domain>
 		<Group>G25</Group>
-		<Explicit>Cabo para TV, |Cabo de dados, Cabo-de-dados|</Explicit>
+		<Explicit>Cabo para TV, Cabo de dados, Cabo-de-dados</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
@@ -539,7 +537,7 @@
 	<record>
 		<Domain>Smartphone</Domain>
 		<Group>G29</Group>
-		<Explicit>Video </Explicit>
+		<Explicit>Video</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
@@ -611,7 +609,7 @@
 	<record>
 		<Domain>Smartphone</Domain>
 		<Group>G41</Group>
-		<Explicit>Gravador de voz, Gravador, |viva voz, viva-voz| </Explicit>
+		<Explicit>Gravador de voz, Gravador, viva voz, viva-voz</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 	<record>
@@ -654,6 +652,18 @@
 		<Domain>Smartphone</Domain>
 		<Group>G48</Group>
 		<Explicit>Agenda telefonica</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Pedido</Domain>
+		<Group>G1</Group>
+		<Explicit>prazo de entrega</Explicit>
+		<Implicit>s/n</Implicit>
+	</record>
+	<record>
+		<Domain>Pedido</Domain>
+		<Group>G2</Group>
+		<Explicit>atendimento</Explicit>
 		<Implicit>s/n</Implicit>
 	</record>
 </data-set>
