@@ -4,10 +4,10 @@
     <Revisão>Vale a pena cada centavo investido nesta máquina. O que gostei: Excelente qualidade da imagem;
 Bonita; Fácil manuseio. O que não gostei: Acessórios somente da Sony</Revisão>
     <Câmera>Máquina</Câmera>
-    <Valor>"cada_centavo_investido"</Valor>
+    <Valor>cada centavo investido</Valor>
     <Usabilidade>Manuseio</Usabilidade>
     <Imagem>qualidade da imagem</Imagem>
-    <Design>"bonita"</Design>
+    <Design>bonita</Design>
     <Acessórios>Acessórios</Acessórios>
     <Marca></Marca>
     <Bateria></Bateria>
@@ -84,9 +84,6 @@ O que não gostei: Achei aquele botão redondo que fica na parte traseira da má
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -96,7 +93,7 @@ O que não gostei: Achei aquele botão redondo que fica na parte traseira da má
 ela e um telescópio que tira fotos e ainda grava video em full HD. link para ver foto panorâmica. http://www.panoramio.com/photo/29693449. O que gostei: Tudo</Revisão>
     <Câmera></Câmera>
     <Valor></Valor>
-    <Usabilidade>"fácil de usar"</Usabilidade>
+    <Usabilidade>facil de usar</Usabilidade>
     <Imagem></Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
@@ -105,6 +102,53 @@ ela e um telescópio que tira fotos e ainda grava video em full HD. link para ve
     <Botão></Botão>
     <Resolução></Resolução>
     <Foto>fotos</Foto>
+    <Vídeo_>video</Vídeo_>
+    <Tamanho></Tamanho>
+    <Flash></Flash>
+    <Consumo></Consumo>
+    <Conectividade></Conectividade>
+    <Tela__></Tela__>
+    <Manual></Manual>
+    <Memória></Memória>
+    <Zoom></Zoom>
+    <Peso></Peso>
+    <Garantia></Garantia>
+    <Capa></Capa>
+    <Nitidez></Nitidez>
+    <Película_de_proteção></Película_de_proteção>
+    <Foco_></Foco_>
+    <Lente></Lente>
+    <Peça__></Peça__>
+    <Velocidade></Velocidade>
+    <Câmera_lenta></Câmera_lenta>
+    <Marcador_de_níveis></Marcador_de_níveis>
+    <Redutor_de_olhos_vermelhos></Redutor_de_olhos_vermelhos>
+    <Som></Som>
+    <Recurso_de_edição></Recurso_de_edição>
+    <Disparo_></Disparo_>
+    <Processador></Processador>
+    <Reconhecimento_facial></Reconhecimento_facial>
+    <Entrega></Entrega>
+    <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
+    <Assistência_Técnica></Assistência_Técnica>
+</row>
+<row>
+    <Revisão>òtimo produto, excelente qualidade de resolução nas fotos e nos vídeos de alta definição. Estou satisfeito!
+
+O que gostei: òtimo produto, excelente qualidade de resolução nas fotos e nos vídeos de alta definição. Estou satisfeito!
+
+O que não gostei: Não tem menu em portugues, o que na verdade pra mim não tem problema algum, coloquei em espanhol e da pra entender muito bem.</Revisão>
+    <Câmera>produto</Câmera>
+    <Valor></Valor>
+    <Usabilidade>Menu </Usabilidade>
+    <Imagem></Imagem>
+    <Design></Design>
+    <Acessórios></Acessórios>
+    <Marca></Marca>
+    <Bateria></Bateria>
+    <Botão></Botão>
+    <Resolução></Resolução>
+    <Foto>resolução nas fotos</Foto>
     <Vídeo_>vídeos</Vídeo_>
     <Tamanho></Tamanho>
     <Flash></Flash>
@@ -131,59 +175,6 @@ ela e um telescópio que tira fotos e ainda grava video em full HD. link para ve
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
-    <Entrega></Entrega>
-    <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
-    <Assistência_Técnica></Assistência_Técnica>
-</row>
-<row>
-    <Revisão>òtimo produto, excelente qualidade de resolução nas fotos e nos vídeos de alta definição. Estou satisfeito!
-
-O que gostei: òtimo produto, excelente qualidade de resolução nas fotos e nos vídeos de alta definição. Estou satisfeito!
-
-O que não gostei: Não tem menu em portugues, o que na verdade pra mim não tem problema algum, coloquei em espanhol e da pra entender muito bem.</Revisão>
-    <Câmera>produto</Câmera>
-    <Valor></Valor>
-    <Usabilidade>Menu </Usabilidade>
-    <Imagem></Imagem>
-    <Design></Design>
-    <Acessórios></Acessórios>
-    <Marca></Marca>
-    <Bateria></Bateria>
-    <Botão></Botão>
-    <Resolução></Resolução>
-    <Foto>resolução das fotos</Foto>
-    <Vídeo_>resolução dos vídeos</Vídeo_>
-    <Tamanho></Tamanho>
-    <Flash></Flash>
-    <Consumo></Consumo>
-    <Conectividade></Conectividade>
-    <Tela__></Tela__>
-    <Manual></Manual>
-    <Memória></Memória>
-    <Zoom></Zoom>
-    <Peso></Peso>
-    <Garantia></Garantia>
-    <Capa></Capa>
-    <Nitidez></Nitidez>
-    <Película_de_proteção></Película_de_proteção>
-    <Foco_></Foco_>
-    <Lente></Lente>
-    <Peça__></Peça__>
-    <Velocidade></Velocidade>
-    <Câmera_lenta></Câmera_lenta>
-    <Marcador_de_níveis></Marcador_de_níveis>
-    <Redutor_de_olhos_vermelhos></Redutor_de_olhos_vermelhos>
-    <Som></Som>
-    <Recurso_de_edição></Recurso_de_edição>
-    <Disparo_></Disparo_>
-    <Processador></Processador>
-    <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -198,7 +189,7 @@ O que não gostei: O preço</Revisão>
     <Valor>preço </Valor>
     <Usabilidade></Usabilidade>
     <Imagem></Imagem>
-    <Design>acabamento</Design>
+    <Design>acabameto</Design>
     <Acessórios></Acessórios>
     <Marca></Marca>
     <Bateria></Bateria>
@@ -231,9 +222,6 @@ O que não gostei: O preço</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -256,7 +244,7 @@ O que não gostei: O preço não é tão competitivo comparado à outras câmera
     <Resolução></Resolução>
     <Foto></Foto>
     <Vídeo_></Vídeo_>
-    <Tamanho>"Compacta"</Tamanho>
+    <Tamanho>compacta</Tamanho>
     <Flash></Flash>
     <Consumo></Consumo>
     <Conectividade></Conectividade>
@@ -281,9 +269,6 @@ O que não gostei: O preço não é tão competitivo comparado à outras câmera
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -304,8 +289,8 @@ O que não gostei: Fora o preço, nada.</Revisão>
     <Bateria></Bateria>
     <Botão></Botão>
     <Resolução></Resolução>
-    <Foto>qualidade de fotos</Foto>
-    <Vídeo_>qualidade de vídeos</Vídeo_>
+    <Foto>qualidade das fotos</Foto>
+    <Vídeo_>vídeos</Vídeo_>
     <Tamanho></Tamanho>
     <Flash>flash</Flash>
     <Consumo></Consumo>
@@ -331,9 +316,6 @@ O que não gostei: Fora o preço, nada.</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -381,9 +363,6 @@ O que não gostei: Fiz este pedido por meio deste site, na loja CBN Distribuiç�
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega>Prazo de entrega</Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -397,18 +376,18 @@ Resposta: uso a FZ35 que é perfeita.
 O que gostei: Design, facilidade de uso, qualidade das fotos, qualidades dos filmes, consumo de energia, conectividade, filma em HD.
 
 O que não gostei: Nenhum.</Revisão>
-    <Câmera>Câmera; FZ35</Câmera>
+    <Câmera>máquina; FZ35</Câmera>
     <Valor></Valor>
-    <Usabilidade>"facilidade de uso"</Usabilidade>
+    <Usabilidade>facilidade de uso</Usabilidade>
     <Imagem></Imagem>
     <Design>design</Design>
     <Acessórios></Acessórios>
     <Marca></Marca>
     <Bateria></Bateria>
     <Botão></Botão>
-    <Resolução>"filma em HD"</Resolução>
-    <Foto>qualidade de fotos</Foto>
-    <Vídeo_>qualidade dos filmes</Vídeo_>
+    <Resolução>filma em HD</Resolução>
+    <Foto>qualidade das fotos</Foto>
+    <Vídeo_>qualidades dos filmes</Vídeo_>
     <Tamanho></Tamanho>
     <Flash></Flash>
     <Consumo>consumo de energia</Consumo>
@@ -434,9 +413,6 @@ O que não gostei: Nenhum.</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -457,7 +433,7 @@ O que não gostei: O valor</Revisão>
     <Bateria></Bateria>
     <Botão></Botão>
     <Resolução></Resolução>
-    <Foto>opções de fotos; qualidade de foto</Foto>
+    <Foto>opções para fazer a foto; qualidade de foto</Foto>
     <Vídeo_></Vídeo_>
     <Tamanho></Tamanho>
     <Flash></Flash>
@@ -484,9 +460,6 @@ O que não gostei: O valor</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -534,9 +507,6 @@ O que não gostei: Produto péssimo, design horrível, manual péssimo, aparênc
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -584,11 +554,8 @@ O que não gostei: Tudo.</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
-    <Atendimento_ao_consumidor>Atendimento</Atendimento_ao_consumidor>
+    <Atendimento_ao_consumidor>tratamento como cliente</Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
 </row>
 <row>
@@ -603,7 +570,7 @@ O que não gostei: VEIO DE FÁBRICA COM DEFEITO E ESTÃO CONSERTANDO AO INVÉS D
     <Imagem></Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
-    <Marca>Marca; Benq; Fabricante</Marca>
+    <Marca>Marca; Benq</Marca>
     <Bateria></Bateria>
     <Botão></Botão>
     <Resolução></Resolução>
@@ -634,9 +601,6 @@ O que não gostei: VEIO DE FÁBRICA COM DEFEITO E ESTÃO CONSERTANDO AO INVÉS D
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -686,9 +650,6 @@ O que não gostei: ANALISANDO O PRODUTO PROFUNDAMENTE,NÃO ENCONTREI NENHUM CONT
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -734,9 +695,6 @@ O que gostei: Muito bom, recomendo</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -784,9 +742,6 @@ O que não gostei: nada contra a esse produto</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -835,9 +790,6 @@ O que não gostei: A bateria não pode zera (Chegar até o fim)</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -846,7 +798,7 @@ O que não gostei: A bateria não pode zera (Chegar até o fim)</Revisão>
     <Revisão>A CÂMERA DIGITAL OLYMPUS, VEM DESLIGANDO SOZINHA E EFETUANDO RUÍDOS, NÃO PERMITINDO SEU USO, MESMO COM BATERIA CARREGADA E CARTÃO DE MEMÓRIA NA POSIÇÃO CERTA. QUANDO OCORRE DE SE CONSEGUIR LIGAR ELA, CONSEGUE-SE APENAS AJUSTAR A DATA/HORA E AÍ VAI PARA O MENU ONDE O IDIOMA VEM EM JAPONÊS E TENTAR TROCAR O IDIOMA, A CÂMERA COMEÇA A FAZER RUÍDOS E DESLIGA SOZINHA.
 
 O que não gostei: câmera muito ruim, não arrisquem a sorte comprando.</Revisão>
-    <Câmera>câmera_digital_olympus</Câmera>
+    <Câmera>câmera digital olympus</Câmera>
     <Valor></Valor>
     <Usabilidade>Menu</Usabilidade>
     <Imagem></Imagem>
@@ -883,9 +835,6 @@ O que não gostei: câmera muito ruim, não arrisquem a sorte comprando.</Revis�
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -906,7 +855,7 @@ O que não gostei:  TUDO!!!! Só é a prova dágua se a câmera ficar LONGE da �
     <Bateria></Bateria>
     <Botão></Botão>
     <Resolução></Resolução>
-    <Foto>Fotos; fotos dentro d'agua</Foto>
+    <Foto>Fotos; foto tirada dentro da água</Foto>
     <Vídeo_></Vídeo_>
     <Tamanho></Tamanho>
     <Flash></Flash>
@@ -933,9 +882,6 @@ O que não gostei:  TUDO!!!! Só é a prova dágua se a câmera ficar LONGE da �
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -950,7 +896,7 @@ O que não gostei: tamanho...qualidade das fotos</Revisão>
     <Valor></Valor>
     <Usabilidade></Usabilidade>
     <Imagem></Imagem>
-    <Design>"material"</Design>
+    <Design>material</Design>
     <Acessórios></Acessórios>
     <Marca></Marca>
     <Bateria></Bateria>
@@ -983,9 +929,6 @@ O que não gostei: tamanho...qualidade das fotos</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1033,9 +976,6 @@ O que não gostei: Péssimo custo-benefício; por não ter um manual detalhado, 
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1057,8 +997,8 @@ O que não gostei: Não possui nenhuma assistência técnica no Brasil; A garant
     <Botão></Botão>
     <Resolução></Resolução>
     <Foto>fotos</Foto>
-    <Vídeo_>qualidade dos vídeos</Vídeo_>
-    <Tamanho>"pequena"</Tamanho>
+    <Vídeo_>qualidade de vídeo</Vídeo_>
+    <Tamanho>pequena</Tamanho>
     <Flash>flash</Flash>
     <Consumo></Consumo>
     <Conectividade></Conectividade>
@@ -1066,7 +1006,7 @@ O que não gostei: Não possui nenhuma assistência técnica no Brasil; A garant
     <Manual></Manual>
     <Memória>cartão de memória</Memória>
     <Zoom>Zoom</Zoom>
-    <Peso>"leve"</Peso>
+    <Peso>leve</Peso>
     <Garantia>garantia</Garantia>
     <Capa>Capinha</Capa>
     <Nitidez></Nitidez>
@@ -1083,9 +1023,6 @@ O que não gostei: Não possui nenhuma assistência técnica no Brasil; A garant
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor>SAC</Atendimento_ao_consumidor>
     <Assistência_Técnica>Assistência Técnica</Assistência_Técnica>
@@ -1110,7 +1047,7 @@ O que não gostei: mas não acho a bateria  pra comprar.se não tiver uma luz bo
     <Foto>fotos</Foto>
     <Vídeo_></Vídeo_>
     <Tamanho></Tamanho>
-    <Flash>"se não tiver luz boa"</Flash>
+    <Flash>se não tiver uma luz boa</Flash>
     <Consumo></Consumo>
     <Conectividade></Conectividade>
     <Tela__></Tela__>
@@ -1134,9 +1071,6 @@ O que não gostei: mas não acho a bateria  pra comprar.se não tiver uma luz bo
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1147,9 +1081,9 @@ O que não gostei: mas não acho a bateria  pra comprar.se não tiver uma luz bo
 O que gostei: Compacta, fácil de usar, preço acessível
 
 O que não gostei: Péssima nitidez. As fotos ficam embaçadas, com aspecto de baixa resolução. Quando o objeto da foto está em movimento ou em ambiente com pouca luminosidade as fotos ficam horríveis, bastante borradas</Revisão>
-    <Câmera>qualidade da máquina</Câmera>
+    <Câmera>qualidade</Câmera>
     <Valor>preço; custo-benefício</Valor>
-    <Usabilidade>"fácil de usar"</Usabilidade>
+    <Usabilidade>fácil de usar</Usabilidade>
     <Imagem></Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
@@ -1159,7 +1093,7 @@ O que não gostei: Péssima nitidez. As fotos ficam embaçadas, com aspecto de b
     <Resolução></Resolução>
     <Foto>fotos</Foto>
     <Vídeo_></Vídeo_>
-    <Tamanho>"compacta"</Tamanho>
+    <Tamanho>compacta</Tamanho>
     <Flash></Flash>
     <Consumo></Consumo>
     <Conectividade></Conectividade>
@@ -1184,9 +1118,6 @@ O que não gostei: Péssima nitidez. As fotos ficam embaçadas, com aspecto de b
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1201,7 +1132,7 @@ O que gostei: bom muinto rui
 O que não gostei: e bom ruim para usar</Revisão>
     <Câmera></Câmera>
     <Valor></Valor>
-    <Usabilidade>funções</Usabilidade>
+    <Usabilidade>funçoes</Usabilidade>
     <Imagem></Imagem>
     <Design>aparência  </Design>
     <Acessórios></Acessórios>
@@ -1236,9 +1167,6 @@ O que não gostei: e bom ruim para usar</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1251,7 +1179,7 @@ O que gostei: Já fotografei com está Câmera. Fácil de utilizar, auto explica
 O que não gostei: --</Revisão>
     <Câmera>produto; câmera</Câmera>
     <Valor>custo benefício</Valor>
-    <Usabilidade>funções; "fácil de utilizar"; "auto explicativa"</Usabilidade>
+    <Usabilidade>funções; fácil de utilizar; auto explicativa</Usabilidade>
     <Imagem></Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
@@ -1286,9 +1214,6 @@ O que não gostei: --</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1304,7 +1229,7 @@ O que não gostei: Ausência de visor ocular;
 Fotografias tremidas (muito ruins) em ambientes sem muita iluminação, mas de qualidade relativamente boa em ambientes bem iluminados;
 Foco deixa a desejar.</Revisão>
     <Câmera>câmera; câmerazinha</Câmera>
-    <Valor>"barato"</Valor>
+    <Valor>barata</Valor>
     <Usabilidade></Usabilidade>
     <Imagem>qualidade da imagem</Imagem>
     <Design></Design>
@@ -1312,10 +1237,10 @@ Foco deixa a desejar.</Revisão>
     <Marca></Marca>
     <Bateria>bateria</Bateria>
     <Botão></Botão>
-    <Resolução>"Megapixels"</Resolução>
+    <Resolução>Megapixels</Resolução>
     <Foto>fotografias</Foto>
     <Vídeo_></Vídeo_>
-    <Tamanho>"compacta"</Tamanho>
+    <Tamanho>compacta</Tamanho>
     <Flash></Flash>
     <Consumo></Consumo>
     <Conectividade></Conectividade>
@@ -1340,9 +1265,6 @@ Foco deixa a desejar.</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1365,7 +1287,7 @@ O que não gostei: O peso e o volume podem ser desvantagens para quem não gosta
     <Resolução></Resolução>
     <Foto></Foto>
     <Vídeo_></Vídeo_>
-    <Tamanho>"volume"</Tamanho>
+    <Tamanho>volume</Tamanho>
     <Flash></Flash>
     <Consumo></Consumo>
     <Conectividade></Conectividade>
@@ -1390,9 +1312,6 @@ O que não gostei: O peso e o volume podem ser desvantagens para quem não gosta
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1437,9 +1356,6 @@ O que não gostei: O peso e o volume podem ser desvantagens para quem não gosta
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1487,9 +1403,6 @@ O que não gostei: Baixa resolução</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1537,9 +1450,6 @@ O que não gostei: bateria dura pouco</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1554,7 +1464,7 @@ O que não gostei: * Curta duração de bateria.
     <Câmera>câmera</Câmera>
     <Valor>preço</Valor>
     <Usabilidade></Usabilidade>
-    <Imagem>qualidade da imagem</Imagem>
+    <Imagem>qualidade de imagem</Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
     <Marca></Marca>
@@ -1562,7 +1472,7 @@ O que não gostei: * Curta duração de bateria.
     <Botão></Botão>
     <Resolução></Resolução>
     <Foto>fotos noturnas</Foto>
-    <Vídeo_>vídeos</Vídeo_>
+    <Vídeo_>vídeo</Vídeo_>
     <Tamanho></Tamanho>
     <Flash>flash</Flash>
     <Consumo></Consumo>
@@ -1588,9 +1498,6 @@ O que não gostei: * Curta duração de bateria.
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1603,10 +1510,10 @@ O que gostei: - Boa qualidade das imagens em locais bem iluminados;
 - Dá para inserir filtros nas imagens, deixando as imagens mais divertidas.
 
 O que não gostei: pouca memória interna, não bate rápido fotos seguidas, demora a responder quando clicada</Revisão>
-    <Câmera>máquina</Câmera>
+    <Câmera>maquina</Câmera>
     <Valor></Valor>
     <Usabilidade></Usabilidade>
-    <Imagem>qualidade da imagem; filtros de imagens</Imagem>
+    <Imagem>qualidade das imagens; filtros nas imagens</Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
     <Marca></Marca>
@@ -1631,7 +1538,7 @@ O que não gostei: pouca memória interna, não bate rápido fotos seguidas, dem
     <Foco_></Foco_>
     <Lente></Lente>
     <Peça__></Peça__>
-    <Velocidade>"demora para responder"</Velocidade>
+    <Velocidade>demora a responder</Velocidade>
     <Câmera_lenta></Câmera_lenta>
     <Marcador_de_níveis></Marcador_de_níveis>
     <Redutor_de_olhos_vermelhos></Redutor_de_olhos_vermelhos>
@@ -1640,9 +1547,6 @@ O que não gostei: pouca memória interna, não bate rápido fotos seguidas, dem
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1656,15 +1560,15 @@ O que não gostei: Só fica em Widscreen com resolução até 7MP, resolução d
     <Câmera>Câmera</Câmera>
     <Valor></Valor>
     <Usabilidade>opções</Usabilidade>
-    <Imagem>qualidade da imagem; Cores da imagem</Imagem>
+    <Imagem>qualidade da imagem; cores</Imagem>
     <Design>design</Design>
     <Acessórios></Acessórios>
-    <Marca>Sony, Samsung</Marca>
+    <Marca>Sony; Samsung</Marca>
     <Bateria></Bateria>
     <Botão></Botão>
     <Resolução>resolução</Resolução>
     <Foto></Foto>
-    <Vídeo_>gravação de vídeo; gravação full hd; </Vídeo_>
+    <Vídeo_>gravação de vídeo; gravação em full hd</Vídeo_>
     <Tamanho></Tamanho>
     <Flash></Flash>
     <Consumo></Consumo>
@@ -1683,16 +1587,13 @@ O que não gostei: Só fica em Widscreen com resolução até 7MP, resolução d
     <Peça__></Peça__>
     <Velocidade></Velocidade>
     <Câmera_lenta>Slow Motion</Câmera_lenta>
-    <Marcador_de_níveis>Mostrador do nível da bateria e memória</Marcador_de_níveis>
+    <Marcador_de_níveis>mostrador do nível de bateria e memória</Marcador_de_níveis>
     <Redutor_de_olhos_vermelhos></Redutor_de_olhos_vermelhos>
     <Som></Som>
     <Recurso_de_edição></Recurso_de_edição>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1703,7 +1604,7 @@ O que não gostei: Só fica em Widscreen com resolução até 7MP, resolução d
 O que gostei: camera de excelente qualidade e recursos bastante uteis
 
 O que não gostei: dificuldade no manuseio e assistencia tecnica</Revisão>
-    <Câmera>qualidade da câmera</Câmera>
+    <Câmera>camera</Câmera>
     <Valor></Valor>
     <Usabilidade>recursos; manuseio</Usabilidade>
     <Imagem></Imagem>
@@ -1740,12 +1641,9 @@ O que não gostei: dificuldade no manuseio e assistencia tecnica</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
-    <Assistência_Técnica>Assistência Técnica</Assistência_Técnica>
+    <Assistência_Técnica>assistencia tecnica</Assistência_Técnica>
 </row>
 <row>
     <Revisão>Fiquei fascinado com os recursos, mas no quesito cores a Sony que ainda possuo dá um "baile".
@@ -1755,16 +1653,16 @@ O que gostei: Vários recursos, boa velocidade na captura de fotos, intuitiva, i
 O que não gostei: A cor das fotos fica "desbotada", no visor LCD a imagem é nitida com cores fortes e reais, porém ao ver numa TV via HDMI ou lendo o cartão SD em dois computadores diferentes a cor está fraca e fora da realidade.</Revisão>
     <Câmera></Câmera>
     <Valor></Valor>
-    <Usabilidade>recursos; "intuitiva"</Usabilidade>
-    <Imagem>Cores da imagem</Imagem>
+    <Usabilidade>recursos; intuitiva</Usabilidade>
+    <Imagem>Cores;cor</Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
     <Marca></Marca>
     <Bateria></Bateria>
     <Botão></Botão>
     <Resolução></Resolução>
-    <Foto>cores das fotos</Foto>
-    <Vídeo_>filmagem </Vídeo_>
+    <Foto>cor das fotos</Foto>
+    <Vídeo_>filmagens</Vídeo_>
     <Tamanho></Tamanho>
     <Flash></Flash>
     <Consumo></Consumo>
@@ -1790,9 +1688,6 @@ O que não gostei: A cor das fotos fica "desbotada", no visor LCD a imagem é ni
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1805,7 +1700,7 @@ O que gostei: Compacta, boa resolução.
 O que não gostei: Acionamento de funções</Revisão>
     <Câmera></Câmera>
     <Valor> custo\benefício</Valor>
-    <Usabilidade>Funcao</Usabilidade>
+    <Usabilidade>funções</Usabilidade>
     <Imagem></Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
@@ -1815,7 +1710,7 @@ O que não gostei: Acionamento de funções</Revisão>
     <Resolução>resolução</Resolução>
     <Foto></Foto>
     <Vídeo_></Vídeo_>
-    <Tamanho>"compacta"</Tamanho>
+    <Tamanho>compacta</Tamanho>
     <Flash></Flash>
     <Consumo></Consumo>
     <Conectividade></Conectividade>
@@ -1840,9 +1735,6 @@ O que não gostei: Acionamento de funções</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1856,7 +1748,7 @@ O que não gostei: bateria poderia durar um pouco mais.</Revisão>
     <Câmera>câmera; produto</Câmera>
     <Valor></Valor>
     <Usabilidade></Usabilidade>
-    <Imagem>qualidade da imagem</Imagem>
+    <Imagem>qualidade de imagem</Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
     <Marca></Marca>
@@ -1865,7 +1757,7 @@ O que não gostei: bateria poderia durar um pouco mais.</Revisão>
     <Resolução></Resolução>
     <Foto></Foto>
     <Vídeo_></Vídeo_>
-    <Tamanho>"compacta"</Tamanho>
+    <Tamanho>compacta</Tamanho>
     <Flash></Flash>
     <Consumo></Consumo>
     <Conectividade></Conectividade>
@@ -1890,9 +1782,6 @@ O que não gostei: bateria poderia durar um pouco mais.</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1905,7 +1794,7 @@ O que gostei: O produto atende as minhas necessidades.
 O que não gostei: Não é incluída uma bateria reserva.</Revisão>
     <Câmera>produto</Câmera>
     <Valor></Valor>
-    <Usabilidade>funcionalidades</Usabilidade>
+    <Usabilidade>funcionalidade</Usabilidade>
     <Imagem></Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
@@ -1940,9 +1829,6 @@ O que não gostei: Não é incluída uma bateria reserva.</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -1963,7 +1849,7 @@ O que não gostei: Preço</Revisão>
     <Bateria></Bateria>
     <Botão></Botão>
     <Resolução></Resolução>
-    <Foto>fotografias</Foto>
+    <Foto>fotografia</Foto>
     <Vídeo_></Vídeo_>
     <Tamanho></Tamanho>
     <Flash></Flash>
@@ -1990,9 +1876,6 @@ O que não gostei: Preço</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2041,9 +1924,6 @@ O que não gostei: pouca memória
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2057,7 +1937,7 @@ O que não gostei: É um pouco grande, mas isso não chega a ser um problema, e 
 </Revisão>
     <Câmera>câmera</Câmera>
     <Valor></Valor>
-    <Usabilidade>recursos; "fácil de manusear"</Usabilidade>
+    <Usabilidade>recursos; fácil de manusear</Usabilidade>
     <Imagem></Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
@@ -2067,7 +1947,7 @@ O que não gostei: É um pouco grande, mas isso não chega a ser um problema, e 
     <Resolução></Resolução>
     <Foto>qualidade das fotos</Foto>
     <Vídeo_></Vídeo_>
-    <Tamanho>"grande"</Tamanho>
+    <Tamanho>grande</Tamanho>
     <Flash></Flash>
     <Consumo></Consumo>
     <Conectividade></Conectividade>
@@ -2092,9 +1972,6 @@ O que não gostei: É um pouco grande, mas isso não chega a ser um problema, e 
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2107,9 +1984,9 @@ O que gostei: Fina, pratica e leve
 O que não gostei: Nenhum!</Revisão>
     <Câmera></Câmera>
     <Valor></Valor>
-    <Usabilidade>prática</Usabilidade>
+    <Usabilidade>pratica</Usabilidade>
     <Imagem></Imagem>
-    <Design>"beleza"</Design>
+    <Design>beleza</Design>
     <Acessórios></Acessórios>
     <Marca></Marca>
     <Bateria></Bateria>
@@ -2117,7 +1994,7 @@ O que não gostei: Nenhum!</Revisão>
     <Resolução>megapixels</Resolução>
     <Foto>fotos</Foto>
     <Vídeo_></Vídeo_>
-    <Tamanho>tamanho; "fina"</Tamanho>
+    <Tamanho>tamanho; fina</Tamanho>
     <Flash></Flash>
     <Consumo></Consumo>
     <Conectividade></Conectividade>
@@ -2125,7 +2002,7 @@ O que não gostei: Nenhum!</Revisão>
     <Manual></Manual>
     <Memória></Memória>
     <Zoom></Zoom>
-    <Peso>"leve"</Peso>
+    <Peso>leve</Peso>
     <Garantia></Garantia>
     <Capa></Capa>
     <Nitidez></Nitidez>
@@ -2142,9 +2019,6 @@ O que não gostei: Nenhum!</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2159,8 +2033,8 @@ O que gostei: Exelente qualidade de imagens, bons recursos de configuração e �
 O que não gostei: Pouca memória interna e qualidade dos videos.</Revisão>
     <Câmera>câmera</Câmera>
     <Valor></Valor>
-    <Usabilidade>recursos_de_configuração</Usabilidade>
-    <Imagem>qualidade  de imagem</Imagem>
+    <Usabilidade>recursos de configuração</Usabilidade>
+    <Imagem>qualidade de imagens</Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
     <Marca></Marca>
@@ -2168,7 +2042,7 @@ O que não gostei: Pouca memória interna e qualidade dos videos.</Revisão>
     <Botão></Botão>
     <Resolução></Resolução>
     <Foto>qualidade das fotos</Foto>
-    <Vídeo_>qualidade de vídeos</Vídeo_>
+    <Vídeo_>qualidade dos videos</Vídeo_>
     <Tamanho></Tamanho>
     <Flash></Flash>
     <Consumo></Consumo>
@@ -2194,15 +2068,12 @@ O que não gostei: Pouca memória interna e qualidade dos videos.</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
 </row>
 <row>
-    <Revisão>É uma excelente máquina para quem não quer uma resolução profissional, 5.0 Megapixels é ótimo para usuários domésticos. Uma máquina compacta de fácil manuseio. Excelente custo- benefício. Muito boa!
+    <Revisão>É uma excelente máquina para quem não quer uma resolução profissional, 5.0 Megapixels é ótimo para usuários domésticos. Uma máquina compacta de fácil manuseio. Excelente custo-benefício. Muito boa!
 
 O que gostei: Uma máquina compacta de fácil manuseio com redutor de olhos vermelhos e outras funções de fácil acesso. Menu em Português.
 
@@ -2219,7 +2090,7 @@ O que não gostei: Nada</Revisão>
     <Resolução>resolução</Resolução>
     <Foto></Foto>
     <Vídeo_></Vídeo_>
-    <Tamanho>"compacta"</Tamanho>
+    <Tamanho>compacta</Tamanho>
     <Flash></Flash>
     <Consumo></Consumo>
     <Conectividade></Conectividade>
@@ -2238,15 +2109,12 @@ O que não gostei: Nada</Revisão>
     <Velocidade></Velocidade>
     <Câmera_lenta></Câmera_lenta>
     <Marcador_de_níveis></Marcador_de_níveis>
-    <Redutor_de_olhos_vermelhos>Redutor de olhos vermelhos</Redutor_de_olhos_vermelhos>
+    <Redutor_de_olhos_vermelhos>redutor de olhos vermelhos</Redutor_de_olhos_vermelhos>
     <Som></Som>
     <Recurso_de_edição></Recurso_de_edição>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2294,9 +2162,6 @@ O que não gostei: Nenhum.</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2327,7 +2192,7 @@ O que não gostei: Memória interna de apenas 10 Megas,não vem com cartão XD,o
     <Manual></Manual>
     <Memória>memória interna</Memória>
     <Zoom>zoom</Zoom>
-    <Peso>"leveza"</Peso>
+    <Peso>leveza</Peso>
     <Garantia></Garantia>
     <Capa></Capa>
     <Nitidez></Nitidez>
@@ -2344,9 +2209,6 @@ O que não gostei: Memória interna de apenas 10 Megas,não vem com cartão XD,o
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2361,7 +2223,7 @@ O que gostei: - Altíssima qualidade.
 O que não gostei: - Alto preço.</Revisão>
     <Câmera></Câmera>
     <Valor>preço</Valor>
-    <Usabilidade>"fácil de usar"</Usabilidade>
+    <Usabilidade>fácil de usar</Usabilidade>
     <Imagem></Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
@@ -2371,7 +2233,7 @@ O que não gostei: - Alto preço.</Revisão>
     <Resolução></Resolução>
     <Foto></Foto>
     <Vídeo_></Vídeo_>
-    <Tamanho>"compacta"</Tamanho>
+    <Tamanho>compacta</Tamanho>
     <Flash></Flash>
     <Consumo></Consumo>
     <Conectividade></Conectividade>
@@ -2396,9 +2258,6 @@ O que não gostei: - Alto preço.</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2416,7 +2275,7 @@ O que não gostei: Bateria não dura, é necessario ter bateria extra se pretend
 </Revisão>
     <Câmera></Câmera>
     <Valor>preço</Valor>
-    <Usabilidade>recursos; "fácil manuseio"</Usabilidade>
+    <Usabilidade>recursos; facil manuseio</Usabilidade>
     <Imagem>qualidade de imagens</Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
@@ -2451,9 +2310,6 @@ O que não gostei: Bateria não dura, é necessario ter bateria extra se pretend
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2464,11 +2320,11 @@ O que não gostei: Bateria não dura, é necessario ter bateria extra se pretend
 O que gostei: era algo que  realmente estava precisando... linda,versátil e de fácil uso.
 
 O que não gostei: não tenho nada contra</Revisão>
-    <Câmera>câmera</Câmera>
+    <Câmera>camera</Câmera>
     <Valor></Valor>
-    <Usabilidade>"fácil uso"</Usabilidade>
+    <Usabilidade>fácil uso</Usabilidade>
     <Imagem>imagens</Imagem>
-    <Design>"linda"; "versátil"</Design>
+    <Design>linda; versátil</Design>
     <Acessórios></Acessórios>
     <Marca></Marca>
     <Bateria></Bateria>
@@ -2501,9 +2357,6 @@ O que não gostei: não tenho nada contra</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2514,7 +2367,7 @@ O que não gostei: não tenho nada contra</Revisão>
 O que gostei: A melhor opção de fotografia a baixo custo, ótima para fotografar natureza, no meu caso pássaros. O melhor zoom do mercado.
 
 O que não gostei: Pelo fato de ser lançamento ainda possui poucas opções de lentes auxiliares.</Revisão>
-    <Câmera>Sony_H9</Câmera>
+    <Câmera>Sony H9</Câmera>
     <Valor>custo</Valor>
     <Usabilidade></Usabilidade>
     <Imagem></Imagem>
@@ -2551,9 +2404,6 @@ O que não gostei: Pelo fato de ser lançamento ainda possui poucas opções de 
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2574,7 +2424,7 @@ O que não gostei: Muitos botões muito próximos, fácil acioná-los sem querer
     <Bateria></Bateria>
     <Botão></Botão>
     <Resolução></Resolução>
-    <Foto>Nigth Shot</Foto>
+    <Foto>nightshot</Foto>
     <Vídeo_></Vídeo_>
     <Tamanho></Tamanho>
     <Flash></Flash>
@@ -2592,7 +2442,7 @@ O que não gostei: Muitos botões muito próximos, fácil acioná-los sem querer
     <Foco_></Foco_>
     <Lente></Lente>
     <Peça__></Peça__>
-    <Velocidade>"rápida"</Velocidade>
+    <Velocidade>rápida</Velocidade>
     <Câmera_lenta></Câmera_lenta>
     <Marcador_de_níveis></Marcador_de_níveis>
     <Redutor_de_olhos_vermelhos></Redutor_de_olhos_vermelhos>
@@ -2601,9 +2451,6 @@ O que não gostei: Muitos botões muito próximos, fácil acioná-los sem querer
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2619,10 +2466,10 @@ Visor 2,5 polegadas
 
 O que não gostei: Nada ate o momento..</Revisão>
     <Câmera></Câmera>
-    <Valor>custo benefício</Valor>
+    <Valor>custo beneficio</Valor>
     <Usabilidade></Usabilidade>
     <Imagem></Imagem>
-    <Design>"bonita"; "elegante"</Design>
+    <Design>bonita; elegante</Design>
     <Acessórios></Acessórios>
     <Marca></Marca>
     <Bateria></Bateria>
@@ -2630,13 +2477,13 @@ O que não gostei: Nada ate o momento..</Revisão>
     <Resolução>Megapixels</Resolução>
     <Foto></Foto>
     <Vídeo_></Vídeo_>
-    <Tamanho>"compacta"</Tamanho>
+    <Tamanho>compacta</Tamanho>
     <Flash></Flash>
     <Consumo></Consumo>
     <Conectividade></Conectividade>
     <Tela__>visor</Tela__>
     <Manual></Manual>
-    <Memória>cartões de memória; sd card</Memória>
+    <Memória>cartoes de mamoria; sd card</Memória>
     <Zoom></Zoom>
     <Peso></Peso>
     <Garantia></Garantia>
@@ -2655,9 +2502,6 @@ O que não gostei: Nada ate o momento..</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2670,7 +2514,7 @@ O que gostei: Facilidade em mexer e tirar as fotos, com a prática é facil de t
 O que não gostei: Até agora nada.</Revisão>
     <Câmera>câmera</Câmera>
     <Valor></Valor>
-    <Usabilidade>"facilidade de mexer"; menu</Usabilidade>
+    <Usabilidade>facilidade em mexer; menu</Usabilidade>
     <Imagem></Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
@@ -2705,9 +2549,6 @@ O que não gostei: Até agora nada.</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2720,7 +2561,7 @@ O que gostei: Disparo ultra-rápido, tem sequencia de 3 disparos em 1 segundo. V
 O que não gostei: Diante de muita luz de fundo, ela reflete um pouco o foco principal. Porém, é possível corrigir no computador.</Revisão>
     <Câmera>máquina digital</Câmera>
     <Valor></Valor>
-    <Usabilidade>recursos; "facilidade no uso"</Usabilidade>
+    <Usabilidade>recursos; facilidade no uso</Usabilidade>
     <Imagem></Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
@@ -2755,9 +2596,6 @@ O que não gostei: Diante de muita luz de fundo, ela reflete um pouco o foco pri
     <Disparo_>disparo</Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2775,10 +2613,10 @@ O que gostei: - Excelente qualidade de imagem.
 O que não gostei: - É preciso tirar foto com as 2 maos para a mesma nao sair "tremida" devido ao tamanho reduzido da camera.
 - A bateria é recarregada na propria camera, como um celular.
 - Capacidade do Memory Stick que acompanha a camera é pequena (32Mb)</Revisão>
-    <Câmera>câmera; produto</Câmera>
+    <Câmera>camera; produto</Câmera>
     <Valor></Valor>
     <Usabilidade></Usabilidade>
-    <Imagem>qualidade de imagem; cores da imagem</Imagem>
+    <Imagem>qualidade de imagem; cores</Imagem>
     <Design>Design</Design>
     <Acessórios></Acessórios>
     <Marca></Marca>
@@ -2793,7 +2631,7 @@ O que não gostei: - É preciso tirar foto com as 2 maos para a mesma nao sair "
     <Conectividade></Conectividade>
     <Tela__>visor</Tela__>
     <Manual></Manual>
-    <Memória>capacidade de memória</Memória>
+    <Memória>Capacidade do Memory Stick</Memória>
     <Zoom></Zoom>
     <Peso></Peso>
     <Garantia></Garantia>
@@ -2812,9 +2650,6 @@ O que não gostei: - É preciso tirar foto com as 2 maos para a mesma nao sair "
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2827,9 +2662,9 @@ O que gostei: Fácil manuseio, versátil, muitos e bons recursos de edição. Pr
 O que não gostei: O imposto de importação.</Revisão>
     <Câmera>máquina; produto; </Câmera>
     <Valor>investimento</Valor>
-    <Usabilidade>recursos; praticidade; menu; "fácil menuseio"</Usabilidade>
+    <Usabilidade>recursos; praticidade; menu; Fácil manuseio</Usabilidade>
     <Imagem>imagens</Imagem>
-    <Design>"versatil"</Design>
+    <Design>versátil</Design>
     <Acessórios></Acessórios>
     <Marca></Marca>
     <Bateria></Bateria>
@@ -2837,7 +2672,7 @@ O que não gostei: O imposto de importação.</Revisão>
     <Resolução></Resolução>
     <Foto>fotografia</Foto>
     <Vídeo_></Vídeo_>
-    <Tamanho>"compacta"</Tamanho>
+    <Tamanho>compacta</Tamanho>
     <Flash>flash</Flash>
     <Consumo></Consumo>
     <Conectividade></Conectividade>
@@ -2856,15 +2691,12 @@ O que não gostei: O imposto de importação.</Revisão>
     <Velocidade></Velocidade>
     <Câmera_lenta></Câmera_lenta>
     <Marcador_de_níveis></Marcador_de_níveis>
-    <Redutor_de_olhos_vermelhos>redução de olhos vermelhos;</Redutor_de_olhos_vermelhos>
+    <Redutor_de_olhos_vermelhos></Redutor_de_olhos_vermelhos>
     <Som></Som>
     <Recurso_de_edição>recursos de edição</Recurso_de_edição>
     <Disparo_></Disparo_>
     <Processador>processador</Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2891,8 +2723,8 @@ O que não gostei: Pelo preço poderia ter mais recursos, com por exemplo o reco
     <Botão></Botão>
     <Resolução></Resolução>
     <Foto></Foto>
-    <Vídeo_>vídeos</Vídeo_>
-    <Tamanho>"medidas"</Tamanho>
+    <Vídeo_>vídeo</Vídeo_>
+    <Tamanho>medidas</Tamanho>
     <Flash></Flash>
     <Consumo></Consumo>
     <Conectividade></Conectividade>
@@ -2911,15 +2743,12 @@ O que não gostei: Pelo preço poderia ter mais recursos, com por exemplo o reco
     <Velocidade></Velocidade>
     <Câmera_lenta></Câmera_lenta>
     <Marcador_de_níveis></Marcador_de_níveis>
-    <Redutor_de_olhos_vermelhos></Redutor_de_olhos_vermelhos>
+    <Redutor_de_olhos_vermelhos>redução de olhos vermelhos</Redutor_de_olhos_vermelhos>
     <Som></Som>
     <Recurso_de_edição></Recurso_de_edição>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial>Reconhecimento facial</Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -2933,7 +2762,7 @@ O que não gostei: o modo noite não é bom</Revisão>
     <Câmera>produto</Câmera>
     <Valor>custo </Valor>
     <Usabilidade>Função</Usabilidade>
-    <Imagem>Modo de imagem; "Modo Noite" </Imagem>
+    <Imagem>Modo de imagem; Modo Noite</Imagem>
     <Design></Design>
     <Acessórios></Acessórios>
     <Marca></Marca>
@@ -2967,9 +2796,6 @@ O que não gostei: o modo noite não é bom</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>
@@ -3017,9 +2843,6 @@ O que não gostei: Não encontrei!</Revisão>
     <Disparo_></Disparo_>
     <Processador></Processador>
     <Reconhecimento_facial></Reconhecimento_facial>
-    <></>
-    <></>
-    <></>
     <Entrega></Entrega>
     <Atendimento_ao_consumidor></Atendimento_ao_consumidor>
     <Assistência_Técnica></Assistência_Técnica>

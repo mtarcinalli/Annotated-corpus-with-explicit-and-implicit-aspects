@@ -5,7 +5,7 @@
 </Revisão>
     <Livro>Livro</Livro>
     <Autor>autor</Autor>
-    <Personagem>Protagonista;  Pedro Bala; Herois; Dora</Personagem>
+    <Personagem>Protagonista;  Pedro-Bala; heróis; Dora</Personagem>
     <Escrita></Escrita>
     <História></História>
     <Detalhes__></Detalhes__>
@@ -31,8 +31,8 @@
 <row>
     <Revisão>Quem tem pavor só de ouvir o nome Capitães de a Areia, por causa de a Fuvest, ficaria admirado com quão bom é esse livro. Jorge Amado escreve de forma envolvente, e em os faz sentir vontade de ajudar cada um de os personagens .
 Li, reli, e vou ler mais uma vez, porque vale a pena!</Revisão>
-    <Livro>Livro; Capitães de areia</Livro>
-    <Autor>Jorge Amado; Escritor</Autor>
+    <Livro>Livro; Capitães de a areia</Livro>
+    <Autor>Jorge Amado</Autor>
     <Personagem>Personagens</Personagem>
     <Escrita>Escreve</Escrita>
     <História></História>
@@ -146,7 +146,7 @@ A trama se passa em um futuro fictício – 1984 – em que o mundo é dominado 
     <Autor>Orwell</Autor>
     <Personagem></Personagem>
     <Escrita></Escrita>
-    <História>história; Romance; Trama; </História>
+    <História>história; Romance; Trama</História>
     <Detalhes__></Detalhes__>
     <Leitura></Leitura>
     <Leitor></Leitor>
@@ -171,7 +171,7 @@ A trama se passa em um futuro fictício – 1984 – em que o mundo é dominado 
     <Revisão>O grande irmão. 
 Um de os meus preferido, li duas vezes, em momentos bem diferentes, e e cada leitura permite novas interpretações, ainda mais em tempos de big brother. Pretendo reler ( este merece!)
 </Revisão>
-    <Livro>"Um dos meus preferidos"</Livro>
+    <Livro>Um de os meus preferido</Livro>
     <Autor></Autor>
     <Personagem></Personagem>
     <Escrita></Escrita>
@@ -227,7 +227,7 @@ Um de os meus preferido, li duas vezes, em momentos bem diferentes, e e cada lei
     <Revisão>Resumo de o livro Crepúsculo.
 Crepúsculo poderia ser como qualquer outra história não fosse um elemento irresistível : o objeto de a paixão de a protagonista é um vampiro. Assim, soma-se a a paixão um perigo sobrenatural temperado com muito suspense, e o resultado é uma leitura de tirar o fôlego – um romance repleto de as angústias e incertezas de a juventude –o arrebatamento, a atração, a ansiedade que antecede cada palavra, cada gesto, e todos os medos. Isabella Swanchega a a nublada e chuvosa cidadezinha de Forks – último lugar onde gostaria de viver. Tenta se adaptar a a vida provinciana em a qual aparentemente todos se conhecem, lidar com sua constrangedora falta de coordenação motora e se habituar a morar com um pai com quem nunca conviveu. Em seu destino está Edward Cullen. Ele é lindo, perfeito, misterioso e, a a primeira vista, hostil a a presença de Bella? o que provoca em ela umainquietação desconcertante. Ela se apaixona . Ele, em o melhor estilo “amor proibido" : Sou um risco paravocê. Ela é uma garota incomum. Ele é um vampiro. Ela precisa aprender a controlar seu corpo quando ele atoca. Ele, a controlar sua sede por o sangue de ela . Em meio a descobertas e sobressaltos, Edward é, sim, perigoso : um perigo que qualquer mulher escolheria correr.
 </Revisão>
-    <Livro>Livro, Crepúsculo</Livro>
+    <Livro>Livro; Crepúsculo</Livro>
     <Autor></Autor>
     <Personagem>Isabella Swanchega; Edward Cullen; Protagonista</Personagem>
     <Escrita></Escrita>
@@ -267,7 +267,7 @@ Minha mãe tinha esse livro em a estante, em a verdade tinha esse e os dois pró
     <Cenário></Cenário>
     <Crítica></Crítica>
     <Estilo></Estilo>
-    <Inicio>Inicio</Inicio>
+    <Inicio>início</Inicio>
     <Assunto></Assunto>
     <Capítulos></Capítulos>
     <Passagem></Passagem>
@@ -354,7 +354,7 @@ Estou relendo e TRÊS pessoas hoje ao perguntar o que lia disseram que NUNCA ouv
     <Crítica></Crítica>
     <Estilo></Estilo>
     <Inicio></Inicio>
-    <Assunto>"história sobre o Big Brother"</Assunto>
+    <Assunto>história sobre "Big Brother"</Assunto>
     <Capítulos></Capítulos>
     <Passagem></Passagem>
     <Enredo></Enredo>
@@ -374,7 +374,7 @@ Ainda não acabei de ler. Estou em os primeiros capítulos. Mas cada página de 
 </Revisão>
     <Livro>Livro</Livro>
     <Autor></Autor>
-    <Personagem>Personagens</Personagem>
+    <Personagem>personagem</Personagem>
     <Escrita></Escrita>
     <História></História>
     <Detalhes__></Detalhes__>
@@ -384,8 +384,8 @@ Ainda não acabei de ler. Estou em os primeiros capítulos. Mas cada página de 
     <Crítica></Crítica>
     <Estilo></Estilo>
     <Inicio></Inicio>
-    <Assunto>"remetendo"</Assunto>
-    <Capítulos>Cápitulos</Capítulos>
+    <Assunto>remetendo</Assunto>
+    <Capítulos>capítulos</Capítulos>
     <Passagem>página</Passagem>
     <Enredo></Enredo>
     <Texto></Texto>
@@ -402,12 +402,12 @@ Ainda não acabei de ler. Estou em os primeiros capítulos. Mas cada página de 
 Gente, esse livro é ótimooo vale a pena ler ! É muito gostoso ler ele que dá vontade de ler mais de mil vezes. Eu indico pra todo mundo e posso dizer que amei elee. Afinal, como não amar os livros de a thalita rebouças ? Ela é uma de as minhas escritoras favoritas e com todo esse jeito único de ela pra escrever, eu sempre amei os livros delaa.
 </Revisão>
     <Livro>Livro</Livro>
-    <Autor>Escritoria; Thalita Rebouças</Autor>
+    <Autor>escritoras; Thalita Rebouças</Autor>
     <Personagem></Personagem>
-    <Escrita>"jeito único de escrever"</Escrita>
+    <Escrita>jeito único de ela pra escrever</Escrita>
     <História></História>
     <Detalhes__></Detalhes__>
-    <Leitura>"ler"</Leitura>
+    <Leitura>ler</Leitura>
     <Leitor></Leitor>
     <Cenário></Cenário>
     <Crítica></Crítica>
@@ -432,8 +432,8 @@ Gente, esse livro é ótimooo vale a pena ler ! É muito gostoso ler ele que dá
     <Autor>Thalita Rebouças; Tatá</Autor>
     <Personagem></Personagem>
     <Escrita></Escrita>
-    <História>História;  Tipo de História; Narrativa; </História>
-    <Detalhes__>Detalhes; </Detalhes__>
+    <História>História;  Tipo de História; Narrativa</História>
+    <Detalhes__>Detalhe</Detalhes__>
     <Leitura></Leitura>
     <Leitor></Leitor>
     <Cenário></Cenário>
@@ -494,7 +494,7 @@ Fantástica história, a forma como os personagens se desenvolvem. Prende de o i
     <Cenário></Cenário>
     <Crítica></Crítica>
     <Estilo></Estilo>
-    <Inicio>Inicio</Inicio>
+    <Inicio>início</Inicio>
     <Assunto></Assunto>
     <Capítulos></Capítulos>
     <Passagem></Passagem>
@@ -512,7 +512,7 @@ Fantástica história, a forma como os personagens se desenvolvem. Prende de o i
     <Revisão>SSS – Sidney Sheldon Surpreendente
 Análise/Resenha: Esqueça aquelas leituras de "morre alguém e vamos investigar”, ou de "algo grandioso foi descoberto e agora estamos sendo perseguidos", não, aqui não há esses elementos de os bestsellers de a atualidade (que inclusive o próprio Sidney Sheldon se utiliza A as vezes). Em " O outro lado de a meia-noite "o brilhante autor constrói uma história totalmente sólida de amor, ódio e vingança. Sidney mostra que amor e paixão depositado em excesso a outra pessoa pode ser totalmente prejudicial para a vida. Uma doença silenciosa de a qual não nos damos conta que está dentro de nós. E isso é o que ocorre com a protagonista Noelle Page e Catherine Alexander. Todos os personagens são diferentes e únicos. Sheldon constrói a trama de o início ao fim de forma consistente. O diferencial de esse livro é que nossos sentimentos por os personagens principais mudam a cada página lida. Uma hora estamos torcendo a seu favor, e em a outra queremos odiá –los. “O Outro lado de a meia-noite "não é apenas um livro que lemos de o início ao fim apenas para nos entreter. Ele é tão bem escrito que parece que estamos em um teatro assistindo a uma grande história. Leitura MUITO RECOMENDADA! Se você está querendo comprar algo para ler, pode comprar sem pensar duas vezes!  Abraço a todos! NÃO DEIXEM DE VISITAR MEU BLOG : WWW.DROPEAQUIM.BLOGSPOT.COM. 
 </Revisão>
-    <Livro>Livro; "Bestsellers"</Livro>
+    <Livro>Livro; bestsellers</Livro>
     <Autor>Sidney Sheldon; autor</Autor>
     <Personagem>Personagens; protagonista;  Noelle Page; Catherine Alexander</Personagem>
     <Escrita>Escrito</Escrita>
@@ -523,7 +523,7 @@ Análise/Resenha: Esqueça aquelas leituras de "morre alguém e vamos investigar
     <Cenário></Cenário>
     <Crítica></Crítica>
     <Estilo></Estilo>
-    <Inicio>Inicio</Inicio>
+    <Inicio>início</Inicio>
     <Assunto></Assunto>
     <Capítulos></Capítulos>
     <Passagem>Página</Passagem>
@@ -570,11 +570,11 @@ Foi o primeiro livro de o autor que eu li, achei surpreendente e muito bom (:
     <Revisão>Surreal
 Saramago explora a fantasia atrelada a cegueira de uma maneira muito doida. Ela alastra-se de maneira exponencial. Começa com um motorista em o sinal e termina com toda população de uma cidade. Exceto a esposa de um oftalmologista (ironia). A leitura terá um caráter muito pessoal. Cada leitor irá comparar essa cegueira com a visão de mundo que cada um tem. Essa edição que adqueri tem os diálogos separados apenas por vírgulas, o que dificulta o entendimento. Os personagens não tem nome, apenas apelidos (motorista, rapariga de óculos, mulher de o médico, etc.) . O romance é permeado por ditos populares e provérbios. A maneira como Saramago conduz a história tem sua marca: simplicidade. Mesmo assim, não chegou a me impressionar com obra de 5 estrelas.
 </Revisão>
-    <Livro>Livro; Obra</Livro>
+    <Livro>Obra</Livro>
     <Autor>Saramago</Autor>
     <Personagem>Personagens</Personagem>
     <Escrita></Escrita>
-    <História>História; </História>
+    <História>História;romance</História>
     <Detalhes__></Detalhes__>
     <Leitura></Leitura>
     <Leitor>Leitor</Leitor>
@@ -582,14 +582,14 @@ Saramago explora a fantasia atrelada a cegueira de uma maneira muito doida. Ela 
     <Crítica></Crítica>
     <Estilo></Estilo>
     <Inicio>Começa</Inicio>
-    <Assunto>"explora a fantasia atrelada a cegueira"</Assunto>
+    <Assunto>explora a fantasia atrelada a cegueira</Assunto>
     <Capítulos></Capítulos>
     <Passagem></Passagem>
     <Enredo></Enredo>
     <Texto></Texto>
     <Final>Termina</Final>
     <Edição>Edição</Edição>
-    <Diálogos> dialogos</Diálogos>
+    <Diálogos> diálogos</Diálogos>
     <Adaptação></Adaptação>
     <Tradução></Tradução>
     <Sinopse></Sinopse>
@@ -597,11 +597,11 @@ Saramago explora a fantasia atrelada a cegueira de uma maneira muito doida. Ela 
 </row>
 <row>
     <Revisão>O enredo é envolvente, assim como todos de o SS, mas ao mesmo tempo é previsível. Embora seja previsível pra quem está acostumado com os livros de ele. Pra mim, o melhor sempre será A Ira de os Anjos, em que a protagonista não é simplesmente uma caricatura cega de amor ou ódio (sentimentos que segundo o autor são interligados e justificados em esse livro), é tão próxima de o real, que não há como ler sem se emocionar. E a continuidade de esse livro instiga mais a leitura, mas é desprovida de sentido, como a vingança de Demiris contra Catherine .</Revisão>
-    <Livro>Livro; </Livro>
+    <Livro>Livro</Livro>
     <Autor></Autor>
     <Personagem></Personagem>
     <Escrita></Escrita>
-    <História>Romance</História>
+    <História></História>
     <Detalhes__></Detalhes__>
     <Leitura>Leitura</Leitura>
     <Leitor></Leitor>
@@ -609,7 +609,7 @@ Saramago explora a fantasia atrelada a cegueira de uma maneira muito doida. Ela 
     <Crítica></Crítica>
     <Estilo></Estilo>
     <Inicio></Inicio>
-    <Assunto>"caricatura cega do amor ou ódio"</Assunto>
+    <Assunto>caricatura cega de amor ou ódio</Assunto>
     <Capítulos></Capítulos>
     <Passagem></Passagem>
     <Enredo>Enredo</Enredo>
@@ -638,7 +638,7 @@ Um de os melhores livros que já li sem duvida. Quando comecei a ler não conseg
     <Crítica></Crítica>
     <Estilo></Estilo>
     <Inicio></Inicio>
-    <Assunto>"pra quem gosta de mentes sombrias"</Assunto>
+    <Assunto>para quem gosta de mentes sombrias</Assunto>
     <Capítulos></Capítulos>
     <Passagem></Passagem>
     <Enredo></Enredo>
@@ -657,7 +657,7 @@ Talvés eu era nova demais quando li esse livro, tive uma visão de espanto, por
 </Revisão>
     <Livro>Livro</Livro>
     <Autor>Autor; Escritor; Sidney Sheldon</Autor>
-    <Personagem>Personagens</Personagem>
+    <Personagem>personagen</Personagem>
     <Escrita></Escrita>
     <História></História>
     <Detalhes__></Detalhes__>
@@ -696,7 +696,7 @@ Talvés eu era nova demais quando li esse livro, tive uma visão de espanto, por
     <Crítica></Crítica>
     <Estilo></Estilo>
     <Inicio></Inicio>
-    <Assunto>"conta coisas pelas quais..."</Assunto>
+    <Assunto>conta coisas por as quais</Assunto>
     <Capítulos></Capítulos>
     <Passagem></Passagem>
     <Enredo></Enredo>
@@ -717,7 +717,7 @@ O livro, de Thalita Rebouças narra a história desde criança, de uma garota, c
     <Autor>Thalita Rebouças</Autor>
     <Personagem>Malu</Personagem>
     <Escrita></Escrita>
-    <História>História</História>
+    <História>história</História>
     <Detalhes__></Detalhes__>
     <Leitura></Leitura>
     <Leitor></Leitor>
@@ -727,7 +727,7 @@ O livro, de Thalita Rebouças narra a história desde criança, de uma garota, c
     <Inicio></Inicio>
     <Assunto></Assunto>
     <Capítulos></Capítulos>
-    <Passagem>Situações</Passagem>
+    <Passagem>situaçoes</Passagem>
     <Enredo></Enredo>
     <Texto></Texto>
     <Final></Final>
@@ -746,7 +746,7 @@ Esse livro conta a historia de Malu e suas inseparaveis amigas. Conta a historia
     <Autor></Autor>
     <Personagem>Malu</Personagem>
     <Escrita></Escrita>
-    <História>História</História>
+    <História>historia</História>
     <Detalhes__></Detalhes__>
     <Leitura></Leitura>
     <Leitor></Leitor>
@@ -807,12 +807,12 @@ Com certeza, um de os melhores livros que li. Comparado ao Chico Buarque (quem e
     <Leitura>Leitura</Leitura>
     <Leitor>Leitor</Leitor>
     <Cenário></Cenário>
-    <Crítica>Pensamento; "questões"; "reflexão"</Crítica>
+    <Crítica>Pensamento; questões; reflexão</Crítica>
     <Estilo></Estilo>
     <Inicio></Inicio>
     <Assunto></Assunto>
     <Capítulos></Capítulos>
-    <Passagem>Passagens; "Pontos"</Passagem>
+    <Passagem>Passagens; Pontos</Passagem>
     <Enredo></Enredo>
     <Texto></Texto>
     <Final>Final</Final>
@@ -846,7 +846,7 @@ Com certeza, um de os melhores livros que li. Comparado ao Chico Buarque (quem e
     <Edição></Edição>
     <Diálogos></Diálogos>
     <Adaptação>Adaptações</Adaptação>
-    <Tradução>Idioma; Tradução; </Tradução>
+    <Tradução>Idioma; traduções</Tradução>
     <Sinopse></Sinopse>
     <Narrador></Narrador>
 </row>
@@ -861,7 +861,7 @@ Com certeza, um de os melhores livros que li. Comparado ao Chico Buarque (quem e
     <Leitura>Leitura</Leitura>
     <Leitor></Leitor>
     <Cenário></Cenário>
-    <Crítica>"retrata"</Crítica>
+    <Crítica>retrata</Crítica>
     <Estilo></Estilo>
     <Inicio></Inicio>
     <Assunto></Assunto>
@@ -888,7 +888,7 @@ Com certeza, um de os melhores livros que li. Comparado ao Chico Buarque (quem e
     <Leitura></Leitura>
     <Leitor></Leitor>
     <Cenário></Cenário>
-    <Crítica>"refletir"</Crítica>
+    <Crítica>refletir</Crítica>
     <Estilo></Estilo>
     <Inicio></Inicio>
     <Assunto></Assunto>
@@ -917,7 +917,7 @@ Alguns livros são apenas lidos e são brevemente esquecidos, outros, são lidos
     <Leitura></Leitura>
     <Leitor></Leitor>
     <Cenário></Cenário>
-    <Crítica>Crítica; reflexão</Crítica>
+    <Crítica>critica; reflexão</Crítica>
     <Estilo></Estilo>
     <Inicio></Inicio>
     <Assunto></Assunto>
@@ -949,7 +949,7 @@ Quando me indicaram esse livro, eu não imaginei que estava prestes a ler um de 
     <Crítica></Crítica>
     <Estilo></Estilo>
     <Inicio></Inicio>
-    <Assunto>"sociedade do big brother"</Assunto>
+    <Assunto>sociedade de o big brother</Assunto>
     <Capítulos></Capítulos>
     <Passagem></Passagem>
     <Enredo></Enredo>
@@ -995,7 +995,7 @@ Em os últimos dias de 2011, os meninos de Jorge Amado, um por um, tirou-me de a
     <Revisão>Eu de verdade não sabia o que esperar de o livro. Digo, não sabia nem a sinopse antes de começar a ler. E foi tão bom quanto surpreendente descobrir a história tão bonita que estava guardada em essas páginas. Engraçado que foi em poucos momentos que eu me situava em a década de trinta, porque é evidente que o livro não se tornou menos realista com o passar de os anos. Não dá pra não olhar ao redor e pensar diferente, nem que seja um pouquinho. Pedro Bala, Sem-Pernas, o Gato, Dora, Professor ganharam meu coração com seu jeito de gente real. De história de verdade. Mesmo que as vezes seja difícil acreditar que o livro fala de crianças, de adolescentes mais novos que eu. O que só reforça a mensagem de o livro. Que a pobreza, o desprezo e a desigualdade tiram tudo de os capitães, inclusive a infância (menos a liberdade, que " a liberdade é o bem maior de o mundo"). Achei tão poético e bonito, que mesmo a realidade que é mostrada ser bem crua e explicita, não tira o lírico e a alma tão verdadeira que tem em esse livro. Cinco estrelas bem dadas ;)</Revisão>
     <Livro>Livro</Livro>
     <Autor></Autor>
-    <Personagem>Pedro Bala; Sem-Pernas; o Gato; Dora; Professor.</Personagem>
+    <Personagem>Pedro Bala; Sem-Pernas; o Gato; Dora; Professor</Personagem>
     <Escrita></Escrita>
     <História></História>
     <Detalhes__></Detalhes__>
@@ -1005,7 +1005,7 @@ Em os últimos dias de 2011, os meninos de Jorge Amado, um por um, tirou-me de a
     <Crítica>Mensagem</Crítica>
     <Estilo></Estilo>
     <Inicio></Inicio>
-    <Assunto>"é mostrado"</Assunto>
+    <Assunto>é mostrada</Assunto>
     <Capítulos></Capítulos>
     <Passagem>Páginas</Passagem>
     <Enredo></Enredo>
@@ -1031,7 +1031,7 @@ Em os últimos dias de 2011, os meninos de Jorge Amado, um por um, tirou-me de a
     <Cenário></Cenário>
     <Crítica></Crítica>
     <Estilo></Estilo>
-    <Inicio>Inicio</Inicio>
+    <Inicio>início</Inicio>
     <Assunto>Assunto</Assunto>
     <Capítulos></Capítulos>
     <Passagem></Passagem>
@@ -1077,9 +1077,9 @@ A trama de este livro é simplesmente excelente, não é um livro previsível e 
 <row>
     <Revisão>Um livro brasileiro que tem crônicas excelentes pra se ler em alguns minutos e logo não querer parar de se ler. A escritora, Thalita Rebouças, sabe escrever sobre a adolescência de uma forma carismática e abordar vários assuntos com classe. Ela é a voz de os adolescente e sabe agradar os grandinhos como eu que gostei e virei fã de ela logo de cara, pois é uma leitura rápida, gostosa e estimulante. Falando de esse livro... Em ele Malu uma garotinha que lembra que passou com suas amigas, onde prova as amizades que ela faz, constrói, permance e que ficará em a lembrança de ela e de o leitor. Tem muitas crônicas agradáveis, muita coisa bacana sobre a amizade, a mãe que faz queimar a nossa cara, amigos com problemas e qualidades. Enfim um livro muito bom que encontrei e desejo fazer a coleção de a série que divulgarei pra todos pra se divertirem e rir muito.</Revisão>
     <Livro>Livro</Livro>
-    <Autor>Escritora; Thalita Rebouças,</Autor>
+    <Autor>Escritora; Thalita Rebouças</Autor>
     <Personagem>Malu</Personagem>
-    <Escrita>"sabe escrever"</Escrita>
+    <Escrita>sabe escrever</Escrita>
     <História>Crônicas</História>
     <Detalhes__></Detalhes__>
     <Leitura>Leitura</Leitura>
@@ -1222,9 +1222,9 @@ Acho que esse eh o livro mais chato que já li em a vida. A minha leitura foi ma
 </Revisão>
     <Livro>Livro</Livro>
     <Autor></Autor>
-    <Personagem>Personagens</Personagem>
+    <Personagem>personagem</Personagem>
     <Escrita></Escrita>
-    <História>História</História>
+    <História>historia</História>
     <Detalhes__></Detalhes__>
     <Leitura>Leitura</Leitura>
     <Leitor></Leitor>
@@ -1261,7 +1261,7 @@ Tenho um primo q é louco por esse livro. Seu nick name em a internet é holden,
     <Crítica></Crítica>
     <Estilo></Estilo>
     <Inicio></Inicio>
-    <Assunto>"Essência"</Assunto>
+    <Assunto>Essência</Assunto>
     <Capítulos></Capítulos>
     <Passagem>Página</Passagem>
     <Enredo></Enredo>
@@ -1309,7 +1309,7 @@ Sydney Sheldon tem a marca registrada de envolver o leitor em as histórias de v
 </Revisão>
     <Livro>Livro</Livro>
     <Autor>Sydney Sheldon; Sheldon</Autor>
-    <Personagem>Personagens; "Noelle</Personagem>
+    <Personagem>Personagens; Noelle</Personagem>
     <Escrita></Escrita>
     <História>História</História>
     <Detalhes__></Detalhes__>
@@ -1366,7 +1366,7 @@ Em este livro emocionante, Sidney consegue mostrar duas mulheres totalmente dist
     <Livro>Livro</Livro>
     <Autor>Sidney</Autor>
     <Personagem></Personagem>
-    <Escrita>"sabe como escrever"</Escrita>
+    <Escrita>sabe como escrever</Escrita>
     <História></História>
     <Detalhes__></Detalhes__>
     <Leitura></Leitura>
@@ -1391,8 +1391,8 @@ Em este livro emocionante, Sidney consegue mostrar duas mulheres totalmente dist
 <row>
     <Revisão>Faz um tempão... Acho que foi o terceiro livro de Sidney Sheldo que li. Lembro que gostei bastante e que Noelle era uma verdadeira P... Ela sabia usar o poder de a sedução com os homens que caiam como patinhos. Já Catherine é mais bobinha. O que as duas tem em comum? O amor por o mesmo homem, Larry, que não vale o que o gato enterra. Noelle quer se vingar, já Catherine nem lembro direito. É interessante a trama de cada personagem. Cada capítulo conta o trecho de a vida de uma de elas. Toda vez que eu terminava um queria pular o próximo capítulo para continuar a que estava lendo. Sidney Sheldon sabia prender a atenção de o leitor. Mesmo cortando as tramas, a gente se envolvia rapidamente em a outra e assim o livro seguia. Muuuuuuuuuuito bom!</Revisão>
     <Livro>Livro</Livro>
-    <Autor>Sydney Sheldon</Autor>
-    <Personagem>Personagens; Noelle; Larry; Catherine</Personagem>
+    <Autor>Sidney Sheldo</Autor>
+    <Personagem>personagem; Noelle; Larry; Catherine</Personagem>
     <Escrita></Escrita>
     <História>Trama</História>
     <Detalhes__></Detalhes__>
@@ -1451,7 +1451,7 @@ o que eu achei de o livro e maravilhoso e totalmemte sentimental cada palavra e 
 </Revisão>
     <Livro>Livro</Livro>
     <Autor></Autor>
-    <Personagem>"Mocinha"</Personagem>
+    <Personagem>Mocinha</Personagem>
     <Escrita></Escrita>
     <História>HIstória</História>
     <Detalhes__></Detalhes__>
@@ -1463,7 +1463,7 @@ o que eu achei de o livro e maravilhoso e totalmemte sentimental cada palavra e 
     <Inicio></Inicio>
     <Assunto></Assunto>
     <Capítulos></Capítulos>
-    <Passagem>Situações</Passagem>
+    <Passagem>situaçoês</Passagem>
     <Enredo></Enredo>
     <Texto>palavra</Texto>
     <Final>Final</Final>
@@ -1490,7 +1490,7 @@ Fala sério amiga é um livro muito bom. Fala de uma garota chamada Malu, ela co
     <Crítica></Crítica>
     <Estilo></Estilo>
     <Inicio></Inicio>
-    <Assunto>"Fala de"</Assunto>
+    <Assunto>Fala de</Assunto>
     <Capítulos></Capítulos>
     <Passagem></Passagem>
     <Enredo></Enredo>
@@ -1519,7 +1519,7 @@ Fala sério amiga é um livro muito bom. Fala de uma garota chamada Malu, ela co
     <Crítica></Crítica>
     <Estilo></Estilo>
     <Inicio>Começo</Inicio>
-    <Assunto>"Fala de"</Assunto>
+    <Assunto>Fala de</Assunto>
     <Capítulos></Capítulos>
     <Passagem></Passagem>
     <Enredo></Enredo>
@@ -1640,7 +1640,7 @@ Este livro veio de a estante de o meu pai e foi sequestrado porque Saramago é .
     <Capítulos></Capítulos>
     <Passagem>Situação</Passagem>
     <Enredo></Enredo>
-    <Texto>palavra</Texto>
+    <Texto></Texto>
     <Final></Final>
     <Edição></Edição>
     <Diálogos></Diálogos>
@@ -1687,519 +1687,6 @@ Embora eu não goste de histórias de Romances, esta coleção eu li toda, prati
     <Personagem></Personagem>
     <Escrita></Escrita>
     <História>História; Romance</História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Total:</Revisão>
-    <Livro>56</Livro>
-    <Autor>31</Autor>
-    <Personagem>29</Personagem>
-    <Escrita>11</Escrita>
-    <História>35</História>
-    <Detalhes__>2</Detalhes__>
-    <Leitura>19</Leitura>
-    <Leitor>4</Leitor>
-    <Cenário>1</Cenário>
-    <Crítica>8</Crítica>
-    <Estilo>2</Estilo>
-    <Inicio>8</Inicio>
-    <Assunto>14</Assunto>
-    <Capítulos>3</Capítulos>
-    <Passagem>12</Passagem>
-    <Enredo>3</Enredo>
-    <Texto>6</Texto>
-    <Final>18</Final>
-    <Edição>1</Edição>
-    <Diálogos>1</Diálogos>
-    <Adaptação>1</Adaptação>
-    <Tradução>1</Tradução>
-    <Sinopse>1</Sinopse>
-    <Narrador>1</Narrador>
-</row>
-<row>
-    <Revisão>Análise por revisão</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Média de aspectos por revisão</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Média de aspectos explícitos por revisão</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Média de aspectos implícitos por revisão</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Máximo de aspectos por revisão</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Máximo de aspectos explícitos por revisão</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Máximo de aspectos implícitos por revisão</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Análise por grupo</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Média de aspectos por grupo</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Média de explícitos por grupo</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Média de implícitos por grupo</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Máximo de aspectos por grupo</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Máximo de aspectos explícitos por grupo</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Máximo de aspectos implícitos por grupo</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão></Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Conteúdo objetivo x Conteúdo subjetivo</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Aspectos sem opinião</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
-    <Detalhes__></Detalhes__>
-    <Leitura></Leitura>
-    <Leitor></Leitor>
-    <Cenário></Cenário>
-    <Crítica></Crítica>
-    <Estilo></Estilo>
-    <Inicio></Inicio>
-    <Assunto></Assunto>
-    <Capítulos></Capítulos>
-    <Passagem></Passagem>
-    <Enredo></Enredo>
-    <Texto></Texto>
-    <Final></Final>
-    <Edição></Edição>
-    <Diálogos></Diálogos>
-    <Adaptação></Adaptação>
-    <Tradução></Tradução>
-    <Sinopse></Sinopse>
-    <Narrador></Narrador>
-</row>
-<row>
-    <Revisão>Aspectos com opinião</Revisão>
-    <Livro></Livro>
-    <Autor></Autor>
-    <Personagem></Personagem>
-    <Escrita></Escrita>
-    <História></História>
     <Detalhes__></Detalhes__>
     <Leitura></Leitura>
     <Leitor></Leitor>
