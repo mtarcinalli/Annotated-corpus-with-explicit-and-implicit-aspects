@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<datasets>
+	<camera>
+		<Atendimento_ao_consumidor>
+			<item>tratamento como cliente</item>
+		</Atendimento_ao_consumidor>
+		<Câmera>
+			<item>qualidade</item>
+		</Câmera>
+		<Design>
+			<item>beleza</item>
+			<item>bonito</item>
+			<item>elegante</item>
+			<item>lir</item>
+			<item>material</item>
+			<item>versátil</item>
+		</Design>
+		<Flash>
+			<item>se não ter um luz bom</item>
+		</Flash>
+		<Foto>
+			<item>opção para fazer o foto</item>
+		</Foto>
+		<Imagem>
+			<item>modo noite</item>
+		</Imagem>
+		<Peso>
+			<item>levar</item>
+			<item>leveza</item>
+		</Peso>
+		<Resolução>
+			<item>filmar em hd</item>
+			<item>megapixel</item>
+		</Resolução>
+		<Tamanho>
+			<item>compacto</item>
+			<item>fino</item>
+			<item>grande</item>
+			<item>medida</item>
+			<item>pequeno</item>
+			<item>volume</item>
+		</Tamanho>
+		<Usabilidade>
+			<item>auto explicativo</item>
+			<item>facil de usar</item>
+			<item>facil manuseio</item>
+			<item>facilidade de uso</item>
+			<item>facilidade em mexer</item>
+			<item>facilidade uso</item>
+			<item>fácil de manusear</item>
+			<item>fácil de operar</item>
+			<item>fácil de usar</item>
+			<item>fácil de utilizar</item>
+			<item>fácil manuseio</item>
+			<item>fácil uso</item>
+			<item>intuitivo</item>
+			<item>praticar</item>
+		</Usabilidade>
+		<Valor>
+			<item>barato</item>
+			<item>cada centavo investir</item>
+		</Valor>
+		<Velocidade>
+			<item>demorar a responder</item>
+			<item>rápido</item>
+		</Velocidade>
+	</camera>
+	<livro>
+		<Assunto>
+			<item>caricatura cego de amor ou ódio</item>
+			<item>contar coisa por o qual</item>
+			<item>essência</item>
+			<item>explorar o fantasia atrelar o cegueira</item>
+			<item>falar de</item>
+			<item>história sobre &quot;big brother&quot;</item>
+			<item>para quem gostar de mente sombrio</item>
+			<item>remeter</item>
+			<item>ser mostrar</item>
+			<item>sociedade de o big brother</item>
+		</Assunto>
+		<Crítica>
+			<item>questão</item>
+			<item>refletir</item>
+			<item>reflexão</item>
+			<item>retratar</item>
+		</Crítica>
+		<Escrita>
+			<item>escrever</item>
+			<item>jeito único de ela pra escrever</item>
+			<item>saber como escrever</item>
+			<item>saber escrever</item>
+		</Escrita>
+		<Final>
+			<item>terminar</item>
+		</Final>
+		<Leitura>
+			<item>ler</item>
+		</Leitura>
+		<Livro>
+			<item>bestseller</item>
+			<item>um de o meu preferido</item>
+		</Livro>
+		<Passagem>
+			<item>ponto</item>
+		</Passagem>
+		<Personagem>
+			<item>mocinha</item>
+		</Personagem>
+	</livro>
+	<smartphone>
+		<Bateria>
+			<item>descarregar</item>
+		</Bateria>
+		<Confiabilidade>
+			<item>confiança marcar</item>
+		</Confiabilidade>
+		<Câmera>
+			<item>modulo para filmar</item>
+		</Câmera>
+		<Design>
+			<item>arrojado</item>
+			<item>atual</item>
+			<item>beleza</item>
+			<item>bonito</item>
+			<item>chique</item>
+			<item>elegância</item>
+			<item>lir</item>
+			<item>moderno</item>
+			<item>robustez</item>
+			<item>versátil</item>
+		</Design>
+		<Internet>
+			<item>navegar internet</item>
+		</Internet>
+		<Peso>
+			<item>levar</item>
+			<item>leveza</item>
+			<item>levinho</item>
+			<item>pesar</item>
+		</Peso>
+		<Sinal>
+			<item>funcionar em qualquer lugar</item>
+			<item>ligação telefonico</item>
+			<item>o recepção ser muito bom</item>
+			<item>receber chamar até beira rio</item>
+		</Sinal>
+		<Sincronização>
+			<item>acesso dar</item>
+		</Sincronização>
+		<Sistema_Operacional>
+			<item>falta de compatibilidade</item>
+			<item>sistema symbiar java</item>
+		</Sistema_Operacional>
+		<Smartphone>
+			<item>porcaria</item>
+		</Smartphone>
+		<Tamanho>
+			<item>compacto</item>
+			<item>pequeno</item>
+			<item>volumoso</item>
+		</Tamanho>
+		<Tela>
+			<item>sensibilidade</item>
+		</Tela>
+		<Usabilidade>
+			<item>facil de manusear</item>
+			<item>fácil de mexer</item>
+			<item>fácil de usar</item>
+			<item>operação</item>
+			<item>pratico</item>
+			<item>prático</item>
+			<item>usar</item>
+		</Usabilidade>
+		<Valor>
+			<item>acessivel</item>
+			<item>barato</item>
+		</Valor>
+		<Velocidade>
+			<item>cheio de bug</item>
+			<item>congelar</item>
+			<item>demorar a responder</item>
+			<item>lento</item>
+			<item>rapidez</item>
+			<item>restarta</item>
+			<item>rápido</item>
+			<item>tempo de resposta</item>
+			<item>trava</item>
+		</Velocidade>
+	</smartphone>
+</datasets>
